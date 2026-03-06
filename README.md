@@ -76,7 +76,7 @@ More projects coming soon...
 ---
 
 ⭐ **Thanks for visiting my profile!**
-```
+
 name: Generate Snake
 
 on:
@@ -88,18 +88,16 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
-    steps:
+   steps:
       - uses: Platane/snk@v3
         with:
           github_user_name: UzairCoder8
           outputs: |
             dist/github-contribution-grid-snake.svg
 
-      - uses: crazy-max/ghaction-github-pages@v3
+  - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-```
