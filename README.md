@@ -7,99 +7,101 @@
  ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚══════╝╚═╝   ╚═╝  ╚═╝╚═╝
 
 ```
-```
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=600&height=60&lines=root%40target%3A~%24+whoami;Full Stack Developer;;UX Designer;ACCESS+GRANTED..."/>
-</div>
-```
+<h1 align="center">Hi 👋, I'm Uzair Altaf</h1>
+<h3 align="center">🚀 Full Stack Web Developer | Passionate Programmer</h3>
 
-💻 Web Developer | Full Stack Development
-
----
-
-## 🚀 About Me
-
-- 🎯 Goal: Become a **Professional Web Developer**
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;JavaScript+Lover;Open+Source+Contributor;Always+Learning+New+Tech" />
+</p>
 
 ---
 
-## 🛠️ Skills
+## 👨‍💻 About Me
 
-### Frontend
-- HTML5
-- CSS3
-- JavaScript
-
-### Tools
-- Git
-- GitHub
-- VS Code
-
----
-
-## 📚 Currently Learning
-
-- Advanced HTML & CSS
-- JavaScript
-- Responsive Web Design
-- Bootstrap
-- Basic Backend Concepts
-
----
-
-## 📂 Projects
-
-Here are some projects I am working on:
-
-- 📝 **Course Feedback Form (HTML)**
-- 📄 **Student Registration Form**
-- 🌐 **Basic Web Pages using HTML**
-
-More projects coming soon...
-
----
-
-## 📊 GitHub Stats
-
-![Uzair's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
+- 🔭 I’m currently working on **Full Stack Web Development**
+- 🌱 I’m currently learning **React, Node.js, Express**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **HTML, CSS, JavaScript, PHP**
+- ⚡ Fun fact: **I love turning ideas into real web applications**
 
 ---
 
 ## 🌐 Connect With Me
 
-- GitHub: https://github.com/UzairCoder8
+<p align="center">
+<a href="https://github.com/yourusername"><img src="https://skillicons.dev/icons?i=github" /></a>
+<a href="https://linkedin.com/in/yourusername"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://twitter.com/yourusername"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+</p>
 
 ---
 
-⭐ **Thanks for visiting my profile!**
+## 🧰 Tech Stack
 
-name: Generate Snake
+### 🌐 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" />
+</p>
 
-on:
-  schedule:
-    - cron: "0 */12 * * *"  # runs twice a day
-  workflow_dispatch:
+### ⚙️ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,php" />
+</p>
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
+### 🗄 Database
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
-   steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: UzairCoder8
-          outputs: |
-            dist/github-contribution-grid-snake.svg
+### 🛠 Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
 
-  - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=algolia&margin-w=10"/>
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=blue&style=flat"/>
+</p>
+
+---
+
+⭐ **From [Uzair Altaf](https://github.com/UzairCoder8)**
