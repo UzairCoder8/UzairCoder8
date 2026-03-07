@@ -19,7 +19,7 @@
 ## 👨‍💻 About Me
 
 - 🔭 I’m currently working on **Full Stack Web Development**
-- 🌱 I’m currently learning **React, Node.js, Express**
+- 🌱 I’m learning **React, Node.js, Express**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **HTML, CSS, JavaScript, PHP**
 - ⚡ Fun fact: **I love turning ideas into real web applications**
