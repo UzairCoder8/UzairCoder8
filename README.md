@@ -84,7 +84,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=UzairCoder8&theme=algolia&margin-w=10"/>
+<img src="https://streak-stats.demolab.com/?user=UzairCoder8&theme=dark/>
 </p>
 
 ---
