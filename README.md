@@ -15,7 +15,7 @@
 ## 👨‍💻 About Me
 <h3 align="center">🚀 Full Stack Web Developer | Passionate Programmer</h3>
 
-- 🔭 I’m working on **Full Stack Web Development**
+
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **HTML, CSS, JavaScript, PHP**
 - ⚡ Fun fact: **I love turning ideas into real web applications**
