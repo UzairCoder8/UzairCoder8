@@ -6,8 +6,6 @@
 ╚██████╔╝███████╗██║  ██║██║██║  ██║    ██║  ██║███████╗██║   ██║  ██║██║
  ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚══════╝╚═╝   ╚═╝  ╚═╝╚═╝
 ```
-<h3 align="center">🚀 Full Stack Web Developer | Passionate Programmer</h3>
-
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;JavaScript+Lover;Open+Source+Contributor;Always+Learning+New+Tech" />
 </p>
@@ -15,6 +13,7 @@
 ---
 
 ## 👨‍💻 About Me
+<h3 align="center">🚀 Full Stack Web Developer | Passionate Programmer</h3>
 
 - 🔭 I’m working on **Full Stack Web Development**
 - 👯 I’m looking to collaborate on **Open Source Projects**
