@@ -78,6 +78,48 @@
 </p>
 
 ---
+🐍 Contribution Snake (Dark Theme)
+
+<p align="center">
+  <img src="https://github.com/YOUR-USERNAME/YOUR-USERNAME/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</p>---
+
+⚙️ Auto Generate Snake (GitHub Action)
+
+Create this file:
+
+.github/workflows/snake.yml
+
+Paste the following code inside it:
+
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: YOUR-USERNAME
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+---
+
+Replace YOUR-USERNAME with your GitHub username.
 
 ## 🐍 Contribution Snake
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
