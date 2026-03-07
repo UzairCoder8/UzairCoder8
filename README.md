@@ -7,19 +7,25 @@
  ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚══════╝╚═╝   ╚═╝  ╚═╝╚═╝
 
 ```
-<h1 align="center">Hi 👋, I'm Uzair Altaf</h1>
+<h1 align="center">Assalam-o-Alaikum, I'm Uzair Altaf</h1>
 <h3 align="center">🚀 Full Stack Web Developer | Passionate Programmer</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;JavaScript+Lover;Open+Source+Contributor;Always+Learning+New+Tech" />
 </p>
+```yaml
+Name: UZAIR ALTAF
+Role: FULL STACK DEVELOPMENT SPECIALIST
+Status: [ACTIVE]
+Location: [ENCRYPTED]
+Clearance: TOP SECRET
+```
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Full Stack Web Development**
-- 🌱 I’m learning **React, Node.js, Express**
+- 🔭 I’m working on **Full Stack Web Development**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **HTML, CSS, JavaScript, PHP**
 - ⚡ Fun fact: **I love turning ideas into real web applications**
