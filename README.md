@@ -59,12 +59,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UzairCoder8&layout=compact&theme=tokyonight"/>
-<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=UzairCoder8&show_icons=true&theme=tokyonight&count_private=true" />
-</p>
-
 </p>
 
 ---
