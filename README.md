@@ -78,15 +78,10 @@
 </p>
 
 ---
-🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/UzairCoder8/UzairCoder8/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</p>---
 ---
 
 ## 🐍 Contribution Snake
-<img src="https://githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
