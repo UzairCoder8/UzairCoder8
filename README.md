@@ -71,7 +71,7 @@
 ## 👀 Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=UzairCoder8&label=Profile%20Views&color=blue&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=UzairCoder8&label=Profile%20Views&color=Green&style=flat"/>
 </p>
 
 ---
