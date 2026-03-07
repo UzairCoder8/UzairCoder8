@@ -56,14 +56,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=UzairCoder8&show_icons=true&theme=tokyonight&count_private=true" />
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
@@ -74,14 +66,6 @@
 
 ## 🐍 Contribution Snake
 <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=UzairCoder8&theme=tokyonight&row=1&column=6" />
-</p>
 
 ---
 
