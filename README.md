@@ -26,7 +26,7 @@
 
 <p align="center">
 <a href="https://github.com/UzairCoder8"><img src="https://skillicons.dev/icons?i=github" /></a>
-<a href="https://linkedin.com/in/yourusername"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://linkedin.com/in/uzair-altaf"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
 
 ---
