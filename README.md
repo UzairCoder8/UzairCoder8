@@ -13,13 +13,6 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;JavaScript+Lover;Open+Source+Contributor;Always+Learning+New+Tech" />
 </p>
-```yaml
-Name: UZAIR ALTAF
-Role: FULL STACK DEVELOPMENT SPECIALIST
-Status: [ACTIVE]
-Location: [ENCRYPTED]
-Clearance: TOP SECRET
-```
 
 ---
 
