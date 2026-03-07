@@ -66,8 +66,6 @@
 
 ---
 
-## 👀 Profile Views
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=UzairCoder8&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS"/>
 </div>
