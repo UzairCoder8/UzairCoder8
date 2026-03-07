@@ -73,6 +73,9 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=UzairCoder8&label=Profile%20Views&color=Green&style=flat"/>
 </p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ashardian&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS"/>
+</div>
 
 ---
 
