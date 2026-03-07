@@ -5,9 +5,7 @@
 ██║   ██║ ███╔╝  ██╔══██║██║██╔══██╗    ██╔══██║██║     ██║   ██╔══██║██╔══╝
 ╚██████╔╝███████╗██║  ██║██║██║  ██║    ██║  ██║███████╗██║   ██║  ██║██║
  ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚══════╝╚═╝   ╚═╝  ╚═╝╚═╝
-
 ```
-<h1 align="center">Assalam-o-Alaikum, I'm Uzair Altaf</h1>
 <h3 align="center">🚀 Full Stack Web Developer | Passionate Programmer</h3>
 
 <p align="center">
