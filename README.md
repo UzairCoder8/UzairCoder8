@@ -29,9 +29,8 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://github.com/yourusername"><img src="https://skillicons.dev/icons?i=github" /></a>
+<a href="https://github.com/UzairCoder8"><img src="https://skillicons.dev/icons?i=github" /></a>
 <a href="https://linkedin.com/in/yourusername"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://twitter.com/yourusername"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 </p>
 
 ---
@@ -64,9 +63,9 @@
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=UzairCoder8&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UzairCoder8&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -75,7 +74,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=UzairCoder8&theme=tokyonight"/>
 </p>
 
 ---
@@ -91,7 +90,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=algolia&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=UzairCoder8&theme=algolia&margin-w=10"/>
 </p>
 
 ---
@@ -99,7 +98,7 @@
 ## 👀 Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=blue&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=UzairCoder8&label=Profile%20Views&color=blue&style=flat"/>
 </p>
 
 ---
